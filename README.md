@@ -2,3 +2,6 @@
 
 **Basic Info.** This repo is just my personal collection of papers in robotics, ml, rl, ai, and math. 
 
+
+
+[arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
