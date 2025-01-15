@@ -4,8 +4,8 @@
 
 
 
-[arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
-[arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
-[arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
-[arXiv 2024.06](https://arxiv.org/abs/2406.14219), Proving Olympiad Algebraic Inequalities without Human Demonstrations
+- [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
+- [arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
+- [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
+- [arXiv 2024.06](https://arxiv.org/abs/2406.14219), Proving Olympiad Algebraic Inequalities without Human Demonstrations
 
