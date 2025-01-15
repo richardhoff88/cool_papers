@@ -8,4 +8,5 @@
 - [arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
 - [arXiv 2024.06](https://arxiv.org/abs/2406.14219), Proving Olympiad Algebraic Inequalities without Human Demonstrations
+- [arXiv 2024.10](https://arxiv.org/abs/2410.09988), HARDMath: A Benchmark Dataset for Challenging Problems in Applied Mathematics
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
