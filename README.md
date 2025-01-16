@@ -9,4 +9,6 @@
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
 - [arXiv 2024.06](https://arxiv.org/abs/2406.14219), Proving Olympiad Algebraic Inequalities without Human Demonstrations
 - [arXiv 2024.10](https://arxiv.org/abs/2410.09988), HARDMath: A Benchmark Dataset for Challenging Problems in Applied Mathematics
+- [arXiv 2021.06](https://arxiv.org/abs/2106.09685), LoRA: Low-Rank Adaptation of Large Language Models
+- [arXiv 2024.10](https://arxiv.org/abs/2410.21228), LoRA vs Full Fine-tuning: An Illusion of Equivalence
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
