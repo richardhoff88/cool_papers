@@ -12,7 +12,7 @@
 ## robotics
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
-- [arXive 2021.10](https://arxiv.org/abs/2110.05457), Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World
+- [arXiv 2021.10](https://arxiv.org/abs/2110.05457), Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World
 
 ## ml
 - [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
