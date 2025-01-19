@@ -2,10 +2,10 @@
 
 **Basic Info.** This repo is just my personal collection of papers in robotics, ml, rl, ai, and math. 
 
-  - [robotics](#manipulation)
-  - [machine learning / llms](#machinelearning)
-  - [reinforcement learning](#locomotion)
-  - [math](#hardware-design)
+  - [robotics](#robotics)
+  - [machine learning / llms](#ml)
+  - [reinforcement learning](#rl)
+  - [math](#math)
 
 ---
 
@@ -13,7 +13,7 @@
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
 
-## machinelearning
+## ml
 - [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
 - [arXiv 2021.06](https://arxiv.org/abs/2106.09685), LoRA: Low-Rank Adaptation of Large Language Models
 - [arXiv 2024.10](https://arxiv.org/abs/2410.21228), LoRA vs Full Fine-tuning: An Illusion of Equivalence
