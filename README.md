@@ -2,13 +2,23 @@
 
 **Basic Info.** This repo is just my personal collection of papers in robotics, ml, rl, ai, and math. 
 
+  - [robotics](#manipulation)
+  - [machine learning / llms](#machinelearning)
+  - [reinforcement learning](#locomotion)
+  - [math](#hardware-design)
 
+---
 
-- [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
-- [arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
+## robotics
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
-- [arXiv 2024.06](https://arxiv.org/abs/2406.14219), Proving Olympiad Algebraic Inequalities without Human Demonstrations
-- [arXiv 2024.10](https://arxiv.org/abs/2410.09988), HARDMath: A Benchmark Dataset for Challenging Problems in Applied Mathematics
+- [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
+
+## machinelearning
+- [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
 - [arXiv 2021.06](https://arxiv.org/abs/2106.09685), LoRA: Low-Rank Adaptation of Large Language Models
 - [arXiv 2024.10](https://arxiv.org/abs/2410.21228), LoRA vs Full Fine-tuning: An Illusion of Equivalence
-- [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
+- [arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
+
+## math
+- [arXiv 2024.06](https://arxiv.org/abs/2406.14219), Proving Olympiad Algebraic Inequalities without Human Demonstrations
+- [arXiv 2024.10](https://arxiv.org/abs/2410.09988), HARDMath: A Benchmark Dataset for Challenging Problems in Applied Mathematics
