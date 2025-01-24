@@ -19,6 +19,7 @@
 - [arXiv 2021.06](https://arxiv.org/abs/2106.09685), LoRA: Low-Rank Adaptation of Large Language Models
 - [arXiv 2024.10](https://arxiv.org/abs/2410.21228), LoRA vs Full Fine-tuning: An Illusion of Equivalence
 - [arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
+- [NIPS 2011](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html), Algorithms for Hyper-Parameter Optimization
 
 ## rl
 - [arXiv 2024.02](https://arxiv.org/abs/2402.13487), Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits
