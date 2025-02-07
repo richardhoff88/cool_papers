@@ -21,6 +21,7 @@
 - [arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
 - [NIPS 2011](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html), Algorithms for Hyper-Parameter Optimization
 - [arXiv 2013.01](https://arxiv.org/abs/1301.3781), Efficient Estimation of Word Representations in Vector Space
+- [IEEE 1991.09](https://ieeexplore.ieee.org/document/93808), The Design and Use of Steerable Filters
 
 ## rl
 - [arXiv 2024.02](https://arxiv.org/abs/2402.13487), Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits
