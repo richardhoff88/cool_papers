@@ -22,6 +22,7 @@
 - [NIPS 2011](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html), Algorithms for Hyper-Parameter Optimization
 - [arXiv 2013.01](https://arxiv.org/abs/1301.3781), Efficient Estimation of Word Representations in Vector Space
 - [IEEE 1991.09](https://ieeexplore.ieee.org/document/93808), The Design and Use of Steerable Filters
+- [OpenReview 2021](https://openreview.net/pdf?id=YzgAOeA67xX#:~:text=L2%20regularization%20is%20unstable%20weight%20decay%20in%20all%20optimizers%20that,in%20the%20presence%20of%20Momentum.), Stable Weight Decay Regularization
 
 ## rl
 - [arXiv 2024.02](https://arxiv.org/abs/2402.13487), Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits
