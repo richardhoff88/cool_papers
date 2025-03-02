@@ -34,4 +34,3 @@
 ## math
 - [arXiv 2024.06](https://arxiv.org/abs/2406.14219), Proving Olympiad Algebraic Inequalities without Human Demonstrations
 - [arXiv 2024.10](https://arxiv.org/abs/2410.09988), HARDMath: A Benchmark Dataset for Challenging Problems in Applied Mathematics
-- [Lebesgue Measure and Cantor Set](https://www.math.unm.edu/~crisp/courses/math402/spring16/CantorSet.pdf), not a paper - just something I'm keeping note of
