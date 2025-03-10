@@ -20,6 +20,8 @@
 - [arXiv 2024.10](https://arxiv.org/abs/2410.21228), LoRA vs Full Fine-tuning: An Illusion of Equivalence
 - [arXiv 2017.06](https://arxiv.org/abs/1706.03762), Attention is All You Need
 - [arXiv 2016.10](https://arxiv.org/abs/1610.02242), Temporal Ensembling for Semi-Supervised Learning
+- [arXiv 2015.12](https://arxiv.org/abs/1512.04150), Learning Deep Features for Discriminative Localization
+- [arXiv 2023.05](https://arxiv.org/abs/2303.08128), ViperGPT: Visual Inference via Python Execution for Reasoning
 - [arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
 - [NIPS 2011](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html), Algorithms for Hyper-Parameter Optimization
 - [arXiv 2013.01](https://arxiv.org/abs/1301.3781), Efficient Estimation of Word Representations in Vector Space
