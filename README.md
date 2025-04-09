@@ -16,6 +16,7 @@
 
 ## ml
 - [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
+- [arXiv 2024.11](https://arxiv.org/abs/2411.14432), Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models
 - [arXiv 2021.06](https://arxiv.org/abs/2106.09685), LoRA: Low-Rank Adaptation of Large Language Models
 - [arXiv 2024.10](https://arxiv.org/abs/2410.21228), LoRA vs Full Fine-tuning: An Illusion of Equivalence
 - [arXiv 2017.06](https://arxiv.org/abs/1706.03762), Attention is All You Need
@@ -30,6 +31,7 @@
 
 ## rl
 - [arXiv 2024.02](https://arxiv.org/abs/2402.13487), Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits
+- [arXiv 2025.03](https://arxiv.org/abs/2503.06749), Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models
 - [arXiv 2020.06](https://arxiv.org/abs/2006.04779), Conservative Q-Learning for Offline Reinforcement Learning
 - [arXiv 2023.03](https://arxiv.org/abs/2303.07507), Loss of Plasticity in Continual Deep Reinforcement Learning
 
