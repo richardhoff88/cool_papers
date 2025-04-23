@@ -18,6 +18,7 @@
 - [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
 - [arXiv 2024.11](https://arxiv.org/abs/2411.14432), Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models
 - [arXiv 2023.10](https://arxiv.org/abs/2308.04079), 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+- [arXiv 2024.05](https://arxiv.org/abs/2405.15227), Neural Elevation Models for Terrain Mapping and Path Planning
 - [arXiv 2021.06](https://arxiv.org/abs/2106.09685), LoRA: Low-Rank Adaptation of Large Language Models
 - [arXiv 2024.10](https://arxiv.org/abs/2410.21228), LoRA vs Full Fine-tuning: An Illusion of Equivalence
 - [arXiv 2017.06](https://arxiv.org/abs/1706.03762), Attention is All You Need
