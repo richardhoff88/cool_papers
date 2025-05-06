@@ -16,6 +16,7 @@
 
 ## ml
 - [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
+- [arXiv 2025.02](https://arxiv.org/abs/2502.06787), Visual Agentic AI for Spatial Reasoning with a Dynamic API
 - [arXiv 2024.11](https://arxiv.org/abs/2411.14432), Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models
 - [arXiv 2023.10](https://arxiv.org/abs/2308.04079), 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 - [arXiv 2024.05](https://arxiv.org/abs/2405.15227), Neural Elevation Models for Terrain Mapping and Path Planning
