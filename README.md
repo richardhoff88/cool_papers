@@ -16,6 +16,7 @@
 
 ## ml
 - [arXiv 2025.06](https://arxiv.org/abs/2506.10943), Self-Adapting Language Models
+- [arXiv 2025.04](https://arxiv.org/abs/2504.04736), Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use 
 - [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
 - [arXiv 2025.02](https://arxiv.org/abs/2502.06787), Visual Agentic AI for Spatial Reasoning with a Dynamic API
 - [arXiv 2024.11](https://arxiv.org/abs/2411.14432), Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models
