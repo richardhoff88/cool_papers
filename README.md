@@ -4,6 +4,7 @@
 
   - [robotics](#robotics)
   - [machine learning / llms](#ml)
+  - [3D reconstruction](#3d-reconstruction)
   - [reinforcement learning](#rl)
   - [math](#math)
 
@@ -33,6 +34,9 @@
 - [arXiv 2013.01](https://arxiv.org/abs/1301.3781), Efficient Estimation of Word Representations in Vector Space
 - [IEEE 1991.09](https://ieeexplore.ieee.org/document/93808), The Design and Use of Steerable Filters
 - [OpenReview 2021](https://openreview.net/pdf?id=YzgAOeA67xX#:~:text=L2%20regularization%20is%20unstable%20weight%20decay%20in%20all%20optimizers%20that,in%20the%20presence%20of%20Momentum.), Stable Weight Decay Regularization
+
+## 3d-reconstruction
+- [arXiv 2024.07](https://arxiv.org/abs/2407.08722v1), Unifying 3D Representation and Control of Diverse Robots with a Single Camera
 
 ## rl
 - [arXiv 2024.02](https://arxiv.org/abs/2402.13487), Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits
