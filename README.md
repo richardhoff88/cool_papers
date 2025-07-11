@@ -17,6 +17,7 @@
 
 ## ml
 - [arXiv 2025.06](https://arxiv.org/abs/2506.10943), Self-Adapting Language Models
+- [arXiv 2025.02](https://arxiv.org/abs/2502.03438), BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving
 - [arXiv 2025.04](https://arxiv.org/abs/2504.04736), Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use 
 - [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
 - [arXiv 2025.02](https://arxiv.org/abs/2502.06787), Visual Agentic AI for Spatial Reasoning with a Dynamic API
