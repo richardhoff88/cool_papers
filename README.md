@@ -5,6 +5,7 @@
   - [robotics](#robotics)
   - [machine learning / llms](#ml)
   - [3D reconstruction](#3d-reconstruction)
+  - [path planning](#path-planning)
   - [reinforcement learning](#rl)
   - [math](#math)
 
@@ -39,6 +40,9 @@
 - [arXiv 2023.10](https://arxiv.org/abs/2308.04079), 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 - [arXiv 2024.05](https://arxiv.org/abs/2405.15227), Neural Elevation Models for Terrain Mapping and Path Planning
 - [arXiv 2025.03](https://arxiv.org/abs/2503.11651), VGGT: Visual Geometry Grounded Transformer
+
+## path-planning
+- [arXiv 2025.04](https://arxiv.org/abs/2504.10783), Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning
 
 ## rl
 - [arXiv 2024.02](https://arxiv.org/abs/2402.13487), Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits
