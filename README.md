@@ -18,6 +18,7 @@
 
 ## ml
 - [arXiv 2025.06](https://arxiv.org/abs/2506.10943), Self-Adapting Language Models
+- [arXiv 2019.02](https://arxiv.org/abs/1902.03393), Improved Knowledge Distillation via Teacher Assistant
 - [arXiv 2025.02](https://arxiv.org/abs/2502.03438), BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving
 - [arXiv 2025.04](https://arxiv.org/abs/2504.04736), Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use 
 - [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
@@ -43,6 +44,7 @@
 
 ## path-planning
 - [arXiv 2025.04](https://arxiv.org/abs/2504.10783), Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning
+- [arXiv 2024.12](https://arxiv.org/abs/2412.11270), Monte Carlo Tree Search with Spectral Expansion for Planning with Dynamical Systems
 
 ## rl
 - [arXiv 2024.02](https://arxiv.org/abs/2402.13487), Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits
