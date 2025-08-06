@@ -47,6 +47,7 @@
 ## path-planning
 - [arXiv 2025.04](https://arxiv.org/abs/2504.10783), Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning
 - [arXiv 2024.12](https://arxiv.org/abs/2412.11270), Monte Carlo Tree Search with Spectral Expansion for Planning with Dynamical Systems
+- [arXiv 2025.04](https://arxiv.org/abs/2504.12616), Graph-based Path Planning with Dynamic Obstacle Avoidance for Autonomous Parking
 
 ## rl
 - [arXiv 2024.02](https://arxiv.org/abs/2402.13487), Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits
