@@ -2,6 +2,7 @@
 
 **Basic Info.** This repo is just my personal collection of papers in robotics, ml, rl, ai, and math. 
 
+  - [blogs](#blogs)
   - [robotics](#robotics)
   - [machine learning / llms](#ml)
   - [3D reconstruction](#3d-reconstruction)
@@ -10,6 +11,9 @@
   - [math](#math)
 
 ---
+
+## blogs
+- [2025.01](https://yugeten.github.io/posts/2025/01/ppogrpo/), A vision researcher’s guide to some RL stuff: PPO & GRPO
 
 ## robotics
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
