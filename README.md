@@ -23,6 +23,7 @@
 ## ml
 - [arXiv 2025.06](https://arxiv.org/abs/2506.10943), Self-Adapting Language Models
 - [arXiv 2025.07](https://arxiv.org/abs/2506.21734), Hierarchical Reasoning Model
+- [arXiv 2024.09](https://arxiv.org/abs/2409.17146), Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models
 - [arXiv 2019.02](https://arxiv.org/abs/1902.03393), Improved Knowledge Distillation via Teacher Assistant
 - [arXiv 2020.02](https://arxiv.org/abs/2002.05715), Self-Distillation Amplifies Regularization in Hilbert Space 
 - [arXiv 2025.02](https://arxiv.org/abs/2502.03438), BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving
@@ -55,6 +56,7 @@
 
 ## rl
 - [arXiv 2024.02](https://arxiv.org/abs/2402.13487), Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits
+- [arXiv 2024.07](https://arxiv.org/abs/2407.04811), Simplifying Deep Temporal Difference Learning
 - [arXiv 2025.03](https://arxiv.org/abs/2503.06749), Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models
 - [arXiv 2020.06](https://arxiv.org/abs/2006.04779), Conservative Q-Learning for Offline Reinforcement Learning
 - [arXiv 2023.03](https://arxiv.org/abs/2303.07507), Loss of Plasticity in Continual Deep Reinforcement Learning
