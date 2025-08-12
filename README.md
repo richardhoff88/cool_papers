@@ -15,6 +15,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 ## blogs
 - [2025.01](https://yugeten.github.io/posts/2025/01/ppogrpo/), A vision researcher’s guide to some RL stuff: PPO & GRPO
 - [2025.03](https://medium.com/@nanade.archana/understanding-temporal-difference-td-learning-in-reinforcement-learning-ae8faa797653), Understanding Temporal Difference (TD) Learning in Reinforcement Learning
+- [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
 ## robotics
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
