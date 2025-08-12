@@ -18,6 +18,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
 ## robotics
+- [arXiv 2025.06](https://arxiv.org/abs/2506.09985), V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
 - [arXiv 2021.10](https://arxiv.org/abs/2110.05457), Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World
