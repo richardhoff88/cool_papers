@@ -49,6 +49,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 
 ## 3d-reconstruction
 - [arXiv 2024.07](https://arxiv.org/abs/2407.08722v1), Unifying 3D Representation and Control of Diverse Robots with a Single Camera
+- [arXiv 2025.04](https://arxiv.org/abs/2504.14151), Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D
 - [arXiv 2023.10](https://arxiv.org/abs/2308.04079), 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 - [arXiv 2024.05](https://arxiv.org/abs/2405.15227), Neural Elevation Models for Terrain Mapping and Path Planning
 - [arXiv 2025.03](https://arxiv.org/abs/2503.11651), VGGT: Visual Geometry Grounded Transformer
