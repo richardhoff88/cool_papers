@@ -15,6 +15,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 ## blogs
 - [2025.03](https://medium.com/@nanade.archana/understanding-temporal-difference-td-learning-in-reinforcement-learning-ae8faa797653), Understanding Temporal Difference (TD) Learning in Reinforcement Learning
 - [2025.01](https://yugeten.github.io/posts/2025/01/ppogrpo/), A vision researcher’s guide to some RL stuff: PPO & GRPO
+- [2024.09](https://medium.com/@hassaanidrees7/from-transformers-to-vision-transformers-vit-applying-nlp-models-to-computer-vision-fe6f13b4d014), From Transformers to Vision Transformers (ViT): Applying NLP Models to Computer Vision 
 - [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
 ## robotics
