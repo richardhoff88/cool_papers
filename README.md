@@ -3,7 +3,7 @@
 This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and math. 
 
   - [blogs](#blogs)
-  - [world models](world-models)
+  - [world models](#world-models)
   - [robotics](#robotics)
   - [machine learning / llms](#ml)
   - [3D reconstruction](#3d-reconstruction)
