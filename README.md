@@ -3,6 +3,7 @@
 This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and math. 
 
   - [blogs](#blogs)
+  - [world models](world-models)
   - [robotics](#robotics)
   - [machine learning / llms](#ml)
   - [3D reconstruction](#3d-reconstruction)
@@ -18,10 +19,15 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [2024.09](https://medium.com/@hassaanidrees7/from-transformers-to-vision-transformers-vit-applying-nlp-models-to-computer-vision-fe6f13b4d014), From Transformers to Vision Transformers (ViT): Applying NLP Models to Computer Vision 
 - [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
-## robotics
+## world-models
 - [arXiv 2025.06](https://arxiv.org/abs/2506.09985), V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning
-- [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
+- [arXiv 2025.06](https://arxiv.org/abs/2506.19088), Finetuning a Weather Foundation Model with Lightweight Decoders for Unseen Physical Processes
+- [arXiv 2025.05](https://arxiv.org/abs/2505.15659), FLARE: Robot Learning with Implicit World Modeling 
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
+
+
+## robotics
+- [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
 - [arXiv 2021.10](https://arxiv.org/abs/2110.05457), Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World
 
 ## ml
@@ -38,6 +44,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [arXiv 2023.05](https://arxiv.org/abs/2303.08128), ViperGPT: Visual Inference via Python Execution for Reasoning
 - [arXiv 2021.06](https://arxiv.org/abs/2106.09685), LoRA: Low-Rank Adaptation of Large Language Models
 - [arXiv 2021.04](https://arxiv.org/abs/2104.14294), Emerging Properties in Self-Supervised Vision Transformers (DINO)
+- [arXiv 2021.02](https://arxiv.org/abs/2103.00020), Learning Transferable Visual Models From Natural Language Supervision 
 - [OpenReview 2021](https://openreview.net/pdf?id=YzgAOeA67xX#:~:text=L2%20regularization%20is%20unstable%20weight%20decay%20in%20all%20optimizers%20that,in%20the%20presence%20of%20Momentum.), Stable Weight Decay Regularization
 - [arXiv 2020.02](https://arxiv.org/abs/2002.05715), Self-Distillation Amplifies Regularization in Hilbert Space 
 - [arXiv 2019.10](https://arxiv.org/abs/1910.02054), ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
@@ -47,7 +54,6 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [arXiv 2015.12](https://arxiv.org/abs/1512.04150), Learning Deep Features for Discriminative Localization
 - [arXiv 2013.01](https://arxiv.org/abs/1301.3781), Efficient Estimation of Word Representations in Vector Space
 - [NIPS 2011](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html), Algorithms for Hyper-Parameter Optimization
-- [IEEE 1991.09](https://ieeexplore.ieee.org/document/93808), The Design and Use of Steerable Filters
 
 ## 3d-reconstruction
 - [arXiv 2025.04](https://arxiv.org/abs/2504.14151), Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D
