@@ -22,7 +22,8 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 ## world-models
 - [arXiv 2025.06](https://arxiv.org/abs/2506.09985), V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning
 - [arXiv 2025.06](https://arxiv.org/abs/2506.19088), Finetuning a Weather Foundation Model with Lightweight Decoders for Unseen Physical Processes
-- [arXiv 2025.05](https://arxiv.org/abs/2505.15659), FLARE: Robot Learning with Implicit World Modeling 
+- [arXiv 2025.05](https://arxiv.org/abs/2505.15659), FLARE: Robot Learning with Implicit World Modeling
+- [arXiv 2025.03](https://arxiv.org/abs/2503.15558), Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
 
 
