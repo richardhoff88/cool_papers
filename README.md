@@ -41,6 +41,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [arXiv 2024.11](https://arxiv.org/abs/2411.14432), Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models
 - [arXiv 2024.10](https://arxiv.org/abs/2410.21228), LoRA vs Full Fine-tuning: An Illusion of Equivalence
 - [arXiv 2024.09](https://arxiv.org/abs/2409.17146), Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models
+- [arXiv 2024.05](https://arxiv.org/abs/2312.00752), Mamba: Linear-Time Sequence Modeling with Selective State Spaces 
 - [arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
 - [arXiv 2023.05](https://arxiv.org/abs/2303.08128), ViperGPT: Visual Inference via Python Execution for Reasoning
 - [arXiv 2021.06](https://arxiv.org/abs/2106.09685), LoRA: Low-Rank Adaptation of Large Language Models
