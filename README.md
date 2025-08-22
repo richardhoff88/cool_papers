@@ -21,7 +21,6 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 
 ## world-models
 - [arXiv 2025.06](https://arxiv.org/abs/2506.09985), V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning
-- [arXiv 2025.06](https://arxiv.org/abs/2506.19088), Finetuning a Weather Foundation Model with Lightweight Decoders for Unseen Physical Processes
 - [arXiv 2025.05](https://arxiv.org/abs/2505.15659), FLARE: Robot Learning with Implicit World Modeling
 - [arXiv 2025.03](https://arxiv.org/abs/2503.15558), Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
@@ -65,7 +64,8 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [arXiv 2023.10](https://arxiv.org/abs/2308.04079), 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 
 ## autonomous-vehicles
-- [arXiv 2025.08](https://arxiv.org/html/2508.13995v1), Self-Supervised Sparse Sensor Fusion for Long Range Perception 
+- [arXiv 2025.08](https://arxiv.org/html/2508.13995v1), Self-Supervised Sparse Sensor Fusion for Long Range Perception
+- [arXiv 2025.06](https://arxiv.org/abs/2506.19088), Finetuning a Weather Foundation Model with Lightweight Decoders for Unseen Physical Processes
 - [arXiv 2025.04](https://arxiv.org/abs/2504.10783), Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning
 - [arXiv 2025.04](https://arxiv.org/abs/2504.12616), Graph-based Path Planning with Dynamic Obstacle Avoidance for Autonomous Parking
 - [arXiv 2024.12](https://arxiv.org/abs/2412.11270), Monte Carlo Tree Search with Spectral Expansion for Planning with Dynamical Systems
