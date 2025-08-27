@@ -27,6 +27,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 
 
 ## robotics
+- [arXiv 2025.08](https://arxiv.org/html/2508.07917v1), MolmoAct: Action Reasoning Models that can Reason in Space
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
 - [arXiv 2021.10](https://arxiv.org/abs/2110.05457), Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World
 
