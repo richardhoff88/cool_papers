@@ -20,14 +20,15 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
 ## world-models
+- [arXiv 2025.08](https://arxiv.org/html/2508.07917v1), MolmoAct: Action Reasoning Models that can Reason in Space
 - [arXiv 2025.06](https://arxiv.org/abs/2506.09985), V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning
 - [arXiv 2025.05](https://arxiv.org/abs/2505.15659), FLARE: Robot Learning with Implicit World Modeling
 - [arXiv 2025.03](https://arxiv.org/abs/2503.15558), Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning
+- [arXiv 2024.12](https://arxiv.org/html/2412.03548v1), Perception Tokens Enhance Visual Reasoning in Multimodal Language Models
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
 
 
 ## robotics
-- [arXiv 2025.08](https://arxiv.org/html/2508.07917v1), MolmoAct: Action Reasoning Models that can Reason in Space
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
 - [arXiv 2021.10](https://arxiv.org/abs/2110.05457), Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World
 
