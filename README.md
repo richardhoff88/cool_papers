@@ -24,6 +24,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [arXiv 2025.06](https://arxiv.org/abs/2506.09985), V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning
 - [arXiv 2025.05](https://arxiv.org/abs/2505.15659), FLARE: Robot Learning with Implicit World Modeling
 - [arXiv 2025.03](https://arxiv.org/abs/2503.15558), Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning
+- [arXiv 2025.01](https://arxiv.org/abs/2501.09747), FAST: Efficient Action Tokenization for Vision-Language-Action Models
 - [arXiv 2024.12](https://arxiv.org/html/2412.03548v1), Perception Tokens Enhance Visual Reasoning in Multimodal Language Models
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
 
