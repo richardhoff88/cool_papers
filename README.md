@@ -22,12 +22,12 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
 ## world-models/ vlms
-- [arXiv 2025.08](https://arxiv.org/html/2508.07917v1), MolmoAct: Action Reasoning Models that can Reason in Space
-- [arXiv 2025.06](https://arxiv.org/abs/2506.09985), V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning
-- [arXiv 2025.05](https://www.arxiv.org/abs/2412.13303), FastVLM: Efficient Vision Encoding for Vision Language Models 
-- [arXiv 2025.05](https://arxiv.org/abs/2505.15659), FLARE: Robot Learning with Implicit World Modeling
-- [arXiv 2025.03](https://arxiv.org/abs/2503.15558), Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning
-- [arXiv 2025.01](https://arxiv.org/abs/2501.09747), FAST: Efficient Action Tokenization for Vision-Language-Action Models
+- [arXiv 2025.08](https://arxiv.org/html/2508.07917v1), MolmoAct: Action Reasoning Models that can Reason in Space (AI2)
+- [arXiv 2025.06](https://arxiv.org/abs/2506.09985), V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning (Meta)
+- [arXiv 2025.05](https://www.arxiv.org/abs/2412.13303), FastVLM: Efficient Vision Encoding for Vision Language Models (Apple)
+- [arXiv 2025.05](https://arxiv.org/abs/2505.15659), FLARE: Robot Learning with Implicit World Modeling (Nvidia)
+- [arXiv 2025.03](https://arxiv.org/abs/2503.15558), Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning (Nvidia)
+- [arXiv 2025.01](https://arxiv.org/abs/2501.09747), FAST: Efficient Action Tokenization for Vision-Language-Action Models (PI)
 - [arXiv 2024.12](https://arxiv.org/html/2412.03548v1), Perception Tokens Enhance Visual Reasoning in Multimodal Language Models
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
 
