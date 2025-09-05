@@ -49,6 +49,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [arXiv 2024.05](https://arxiv.org/abs/2312.00752), Mamba: Linear-Time Sequence Modeling with Selective State Spaces 
 - [arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
 - [arXiv 2023.05](https://arxiv.org/abs/2303.08128), ViperGPT: Visual Inference via Python Execution for Reasoning
+- [arXiv 2022.10](https://arxiv.org/abs/2210.02747), Flow Matching for Generative Modeling
 - [arXiv 2021.06](https://arxiv.org/abs/2106.09685), LoRA: Low-Rank Adaptation of Large Language Models
 - [arXiv 2021.04](https://arxiv.org/abs/2104.14294), Emerging Properties in Self-Supervised Vision Transformers (DINO)
 - [arXiv 2021.02](https://arxiv.org/abs/2103.00020), Learning Transferable Visual Models From Natural Language Supervision 
