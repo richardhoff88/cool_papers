@@ -87,6 +87,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [arXiv 2024.02](https://arxiv.org/abs/2402.03300), DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
 - [arXiv 2023.03](https://arxiv.org/abs/2303.07507), Loss of Plasticity in Continual Deep Reinforcement Learning
 - [arXiv 2020.06](https://arxiv.org/abs/2006.04779), Conservative Q-Learning for Offline Reinforcement Learning
+- [IEEE 2008.10](https://ieeexplore.ieee.org/document/4640845), TAMER: Training an Agent Manually via Evaluative Reinforcement
 
 ## math
 - [arXiv 2024.10](https://arxiv.org/abs/2410.09988), HARDMath: A Benchmark Dataset for Challenging Problems in Applied Mathematics
