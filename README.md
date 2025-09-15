@@ -94,5 +94,6 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [IEEE 2008.10](https://ieeexplore.ieee.org/document/4640845), TAMER: Training an Agent Manually via Evaluative Reinforcement
 
 ## math
+- [arXiv 2025.02](https://arxiv.org/html/2503.04772v1), Generating Millions Of Lean Theorems With Proofs By Exploring State Transition Graphs
 - [arXiv 2024.10](https://arxiv.org/abs/2410.09988), HARDMath: A Benchmark Dataset for Challenging Problems in Applied Mathematics
 - [arXiv 2024.06](https://arxiv.org/abs/2406.14219), Proving Olympiad Algebraic Inequalities without Human Demonstrations
