@@ -89,6 +89,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [arXiv 2024.12](https://arxiv.org/abs/2412.11270), Monte Carlo Tree Search with Spectral Expansion for Planning with Dynamical Systems
 
 ## rl
+- [arXiv 2025.06](https://arxiv.org/abs/2506.14245), Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs
 - [arXiv 2025.03](https://arxiv.org/abs/2503.06749), Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models
 - [arXiv 2024.07](https://arxiv.org/abs/2407.04811), Simplifying Deep Temporal Difference Learning
 - [arXiv 2024.02](https://arxiv.org/abs/2402.13487), Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits
