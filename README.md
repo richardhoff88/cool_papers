@@ -31,6 +31,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [arXiv 2025.02](https://arxiv.org/abs/2407.02466), PWM: Policy Learning with Multi-Task World Models 
 - [arXiv 2025.01](https://arxiv.org/abs/2501.09747), FAST: Efficient Action Tokenization for Vision-Language-Action Models (PI)
 - [arXiv 2024.12](https://arxiv.org/html/2412.03548v1), Perception Tokens Enhance Visual Reasoning in Multimodal Language Models
+- [arXiv 2024.09](https://arxiv.org/abs/2409.06662), World-Grounded Human Motion Recovery via Gravity-View Coordinates
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
 
 
@@ -53,8 +54,10 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
 - [arXiv 2023.05](https://arxiv.org/abs/2303.08128), ViperGPT: Visual Inference via Python Execution for Reasoning
 - [arXiv 2022.10](https://arxiv.org/abs/2210.02747), Flow Matching for Generative Modeling
+- [arXiv 2022.06](https://arxiv.org/abs/2205.14135), FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness
 - [arXiv 2022.02](https://arxiv.org/abs/2109.01652), Finetuned Language Models Are Zero-Shot Learners
 - [arXiv 2021.06](https://arxiv.org/abs/2106.09685), LoRA: Low-Rank Adaptation of Large Language Models
+- [arXiv 2021.04](https://arxiv.org/abs/2104.07689), Dual Contrastive Learning for Unsupervised Image-to-Image Translation
 - [arXiv 2021.04](https://arxiv.org/abs/2104.14294), Emerging Properties in Self-Supervised Vision Transformers (DINO)
 - [arXiv 2021.02](https://arxiv.org/abs/2103.00020), Learning Transferable Visual Models From Natural Language Supervision 
 - [OpenReview 2021](https://openreview.net/pdf?id=YzgAOeA67xX#:~:text=L2%20regularization%20is%20unstable%20weight%20decay%20in%20all%20optimizers%20that,in%20the%20presence%20of%20Momentum.), Stable Weight Decay Regularization
