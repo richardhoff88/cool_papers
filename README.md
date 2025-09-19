@@ -71,9 +71,9 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [NIPS 2011](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html), Algorithms for Hyper-Parameter Optimization
 
 ## 3d-reconstruction
-- [arXiv 2025.09](https://arxiv.org/abs/2509.13414), MapAnything: Universal Feed-Forward Metric 3D Reconstruction 
-- [arXiv 2025.08](https://arxiv.org/abs/2508.19204), LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding 
-- [arXiv 2025.04](https://arxiv.org/abs/2504.14151), Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D
+- [arXiv 2025.09](https://arxiv.org/abs/2509.13414), MapAnything: Universal Feed-Forward Metric 3D Reconstruction (Meta)
+- [arXiv 2025.08](https://arxiv.org/abs/2508.19204), LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding (Torc)
+- [arXiv 2025.04](https://arxiv.org/abs/2504.14151), Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D (Meta)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.11651), VGGT: Visual Geometry Grounded Transformer
 - [arXiv 2024.12](https://arxiv.org/html/2412.03451v1), PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes
 - [arXiv 2024.09](https://arxiv.org/html/2508.13995v1), MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
