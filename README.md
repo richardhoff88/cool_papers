@@ -4,6 +4,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 
   - [blogs](#blogs)
   - [world models](#world-models)
+  - [multi agent RL](#multi-agent-rl)
   - [robotics](#robotics)
   - [machine learning / llms](#ml)
   - [3D reconstruction](#3d-reconstruction)
@@ -34,6 +35,12 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [arXiv 2024.09](https://arxiv.org/abs/2409.06662), World-Grounded Human Motion Recovery via Gravity-View Coordinates
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
 
+## multi-agent-rl
+- [arXiv 2023.03](https://arxiv.org/abs/2209.03880), Learning Sparse Graphon Mean Field Games
+- [arXiv 2022.11](https://arxiv.org/abs/2209.04808), Graphon Mean-Field Control for Cooperative Multi-Agent Reinforcement Learning
+- [arXiv 2021.11](https://arxiv.org/abs/1912.02906), Scalable Reinforcement Learning for Multi-Agent Networked Systems
+- [arXiv 2020.12](https://arxiv.org/abs/1802.05438), Mean Field Multi-Agent Reinforcement Learning
+- [arXiv 2018.06](https://arxiv.org/abs/1803.11485), QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning
 
 ## robotics
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
