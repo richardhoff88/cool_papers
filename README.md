@@ -24,6 +24,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
 ## world-models/ vlms
+- [2025.09](https://storage.googleapis.com/deepmind-media/gemini-robotics/Gemini-Robotics-1-5-Tech-Report.pdf), Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer
 - [arXiv 2025.08](https://arxiv.org/html/2508.07917v1), MolmoAct: Action Reasoning Models that can Reason in Space (AI2)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.09985), V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning (Meta)
 - [arXiv 2025.05](https://www.arxiv.org/abs/2412.13303), FastVLM: Efficient Vision Encoding for Vision Language Models (Apple)
