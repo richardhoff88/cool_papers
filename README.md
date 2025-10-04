@@ -102,6 +102,7 @@ Generation with World Models
 - [arXiv 2024.12](https://arxiv.org/abs/2412.11270), Monte Carlo Tree Search with Spectral Expansion for Planning with Dynamical Systems
 
 ## rl
+- [arXiv 2025.10](https://arxiv.org/abs/2412.10419), Preference Adaptive and Sequential Text-to-Image Generation (Google)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.14245), Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs
 - [arXiv 2025.03](https://arxiv.org/abs/2503.06749), Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models
 - [arXiv 2024.07](https://arxiv.org/abs/2305.18290), Direct Preference Optimization: Your Language Model is Secretly a Reward Model
