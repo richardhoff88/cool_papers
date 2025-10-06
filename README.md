@@ -40,9 +40,11 @@ Generation with World Models
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
 
 ## multi-agent-rl
+- [arXiv 2025.05](https://arxiv.org/abs/2412.00661), Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning
 - [arXiv 2023.03](https://arxiv.org/abs/2209.03880), Learning Sparse Graphon Mean Field Games
 - [arXiv 2022.11](https://arxiv.org/abs/2209.04808), Graphon Mean-Field Control for Cooperative Multi-Agent Reinforcement Learning
 - [arXiv 2021.11](https://arxiv.org/abs/1912.02906), Scalable Reinforcement Learning for Multi-Agent Networked Systems
+- [arXiv 2021.10](https://arxiv.org/abs/2002.04131), Mean-Field Controls with Q-learning for Cooperative MARL: Convergence and Complexity Analysis
 - [arXiv 2020.12](https://arxiv.org/abs/1802.05438), Mean Field Multi-Agent Reinforcement Learning
 - [arXiv 2018.06](https://arxiv.org/abs/1803.11485), QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning
 
