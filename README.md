@@ -47,6 +47,7 @@ Generation with World Models
 - [arXiv 2021.10](https://arxiv.org/abs/2002.04131), Mean-Field Controls with Q-learning for Cooperative MARL: Convergence and Complexity Analysis
 - [arXiv 2020.12](https://arxiv.org/abs/1802.05438), Mean Field Multi-Agent Reinforcement Learning
 - [arXiv 2018.06](https://arxiv.org/abs/1803.11485), QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning
+- [arXiv 2016.10](https://arxiv.org/abs/1610.03295), Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving
 
 ## robotics
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
@@ -57,7 +58,8 @@ Generation with World Models
 - [arXiv 2025.07](https://arxiv.org/abs/2506.21734), Hierarchical Reasoning Model
 - [arXiv 2025.06](https://arxiv.org/abs/2506.10943), Self-Adapting Language Models
 - [arXiv 2025.05](https://arxiv.org/abs/2505.23941), Vision Language Models are Biased
-- [arXiv 2025.04](https://arxiv.org/abs/2504.04736), Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use 
+- [arXiv 2025.04](https://arxiv.org/abs/2504.04736), Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use
+- [arXiv 2025.03](https://arxiv.org/abs/2503.08723), Is CLIP ideal? No. Can we fix it? Yes!
 - [arXiv 2025.02](https://arxiv.org/abs/2502.06787), Visual Agentic AI for Spatial Reasoning with a Dynamic API
 - [arXiv 2025.02](https://arxiv.org/abs/2502.03438), BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving
 - [arXiv 2024.11](https://arxiv.org/abs/2411.14432), Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models
