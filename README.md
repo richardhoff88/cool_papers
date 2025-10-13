@@ -54,6 +54,7 @@ Generation with World Models
 - [arXiv 2021.10](https://arxiv.org/abs/2110.05457), Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World
 
 ## ml
+- [arXiv 2025.10](https://www.arxiv.org/abs/2510.04618), Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models
 - [2025.09](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/), Defeating Nondeterminism in LLM Inference (Thinking Machines)
 - [arXiv 2025.07](https://arxiv.org/abs/2506.21734), Hierarchical Reasoning Model
 - [arXiv 2025.06](https://arxiv.org/abs/2506.10943), Self-Adapting Language Models
