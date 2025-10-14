@@ -41,6 +41,7 @@ Generation with World Models
 
 ## multi-agent-rl
 - [arXiv 2025.05](https://arxiv.org/abs/2412.00661), Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning
+- [arXiv 2025.01](https://arxiv.org/abs/2501.17079), Learning Mean Field Control on Sparse Graphs
 - [arXiv 2023.03](https://arxiv.org/abs/2209.03880), Learning Sparse Graphon Mean Field Games
 - [arXiv 2022.11](https://arxiv.org/abs/2209.04808), Graphon Mean-Field Control for Cooperative Multi-Agent Reinforcement Learning
 - [arXiv 2021.11](https://arxiv.org/abs/1912.02906), Scalable Reinforcement Learning for Multi-Agent Networked Systems
