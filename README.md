@@ -59,6 +59,7 @@ Generation with World Models
 - [arXiv 2025.10](https://www.arxiv.org/abs/2510.04618), Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models
 - [2025.09](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/), Defeating Nondeterminism in LLM Inference (Thinking Machines)
 - [arXiv 2025.07](https://arxiv.org/abs/2506.21734), Hierarchical Reasoning Model
+- [arXiv 2025.07](https://arxiv.org/abs/2506.06105), Text-to-LoRA: Instant Transformer Adaption
 - [arXiv 2025.06](https://arxiv.org/abs/2506.10943), Self-Adapting Language Models
 - [arXiv 2025.05](https://arxiv.org/abs/2505.23941), Vision Language Models are Biased
 - [arXiv 2025.04](https://arxiv.org/abs/2504.04736), Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use
