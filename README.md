@@ -57,6 +57,7 @@ Generation with World Models
 
 ## ml
 - [arXiv 2025.10](https://www.arxiv.org/abs/2510.04618), Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models
+- [arXiv 2025.09](https://arxiv.org/abs/2509.26507), The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain
 - [2025.09](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/), Defeating Nondeterminism in LLM Inference (Thinking Machines)
 - [arXiv 2025.07](https://arxiv.org/abs/2506.21734), Hierarchical Reasoning Model
 - [arXiv 2025.07](https://arxiv.org/abs/2506.06105), Text-to-LoRA: Instant Transformer Adaption
