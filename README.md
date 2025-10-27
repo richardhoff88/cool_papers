@@ -20,7 +20,8 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [2025.03](https://sizhe-li.github.io/blog/2025/jacobian-fields-tutorial/), Rethinking Robot Modeling and Representations
 - [2025.03](https://medium.com/@nanade.archana/understanding-temporal-difference-td-learning-in-reinforcement-learning-ae8faa797653), Understanding Temporal Difference (TD) Learning in Reinforcement Learning
 - [2025.01](https://yugeten.github.io/posts/2025/01/ppogrpo/), A vision researcher’s guide to some RL stuff: PPO & GRPO
-- [2024.09](https://medium.com/@hassaanidrees7/from-transformers-to-vision-transformers-vit-applying-nlp-models-to-computer-vision-fe6f13b4d014), From Transformers to Vision Transformers (ViT): Applying NLP Models to Computer Vision 
+- [2024.09](https://medium.com/@hassaanidrees7/from-transformers-to-vision-transformers-vit-applying-nlp-models-to-computer-vision-fe6f13b4d014), From Transformers to Vision Transformers (ViT): Applying NLP Models to Computer Vision
+- [2024.01](https://leeyngdo.github.io/blog/reinforcement-learning/2024-01-31-distributional-reinforcement-learning/), Distributional RL
 - [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
 ## world-models/ vlms
