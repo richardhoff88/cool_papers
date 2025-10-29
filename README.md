@@ -44,6 +44,7 @@ Generation with World Models
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
 
 ## multi-agent-rl
+- [arXiv 2025.08](https://arxiv.org/abs/2310.10948), Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control 
 - [arXiv 2025.05](https://arxiv.org/abs/2412.00661), Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning
 - [arXiv 2025.01](https://arxiv.org/abs/2501.17079), Learning Mean Field Control on Sparse Graphs
 - [arXiv 2023.03](https://arxiv.org/abs/2209.03880), Learning Sparse Graphon Mean Field Games
