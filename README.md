@@ -15,6 +15,8 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 ---
 
 ## blogs
+- [RL.1](https://ai.stanford.edu/~gwthomas/notes/mdps.pdf), RL Fundamentals
+- [RL.2](https://mitliagkas.github.io/ift6085-2019/ift-6085-lecture-18-notes.pdf), Analysis of RL algorithms
 - [2025.09](http://medium.com/correll-lab/model-free-vs-model-based-reinforcement-learning-1a5ba33baf0e), Model-free vs. Model-based Reinforcement Learning
 - [2025.07](https://rlhfbook.com/book.pdf), Reinforcement Learning from Human Feedback, Nathan Lambert
 - [2025.03](https://sizhe-li.github.io/blog/2025/jacobian-fields-tutorial/), Rethinking Robot Modeling and Representations
