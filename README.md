@@ -49,6 +49,7 @@ Generation with World Models
 - [arXiv 2025.01](https://arxiv.org/abs/2501.17079), Learning Mean Field Control on Sparse Graphs
 - [arXiv 2023.03](https://arxiv.org/abs/2209.03880), Learning Sparse Graphon Mean Field Games
 - [arXiv 2022.11](https://arxiv.org/abs/2209.04808), Graphon Mean-Field Control for Cooperative Multi-Agent Reinforcement Learning
+- [arXiv 2022.02](https://arxiv.org/abs/2112.01280), Learning Graphon Mean Field Games and Approximate Nash Equilibria 
 - [arXiv 2021.11](https://arxiv.org/abs/1912.02906), Scalable Reinforcement Learning for Multi-Agent Networked Systems
 - [arXiv 2021.10](https://arxiv.org/abs/2002.04131), Mean-Field Controls with Q-learning for Cooperative MARL: Convergence and Complexity Analysis
 - [arXiv 2020.12](https://arxiv.org/abs/1802.05438), Mean Field Multi-Agent Reinforcement Learning
