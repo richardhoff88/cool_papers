@@ -27,6 +27,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
 ## world-models/ vlms
+- [arXiv 2025.11](https://arxiv.org/abs/2507.12508), MindJourney: Test-Time Scaling with World Models for Spatial Reasoning
 - [arXiv 2025.09](https://openreview.net/forum?id=2zXRGiorSu), Linear Mechanisms for Spatiotemporal Reasoning in Vision Language Models
 - [arXiv 2025.09](https://arxiv.org/abs/2509.20328), Video models are zero-shot learners and reasoners
 - [2025.09](https://scontent-lax3-2.xx.fbcdn.net/v/t39.2365-6/553592426_661450129912484_4072750821656455102_n.pdf?_nc_cat=103&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=0-g1m0kIX7cQ7kNvwH6a7bw&_nc_oc=Adk9qpts_GBvV_Mt-xbC8lX6s4hKJAZRO6dvaWVNmRM3ptXhly7VchF8s7prtGSm_Lk&_nc_zt=14&_nc_ht=scontent-lax3-2.xx&_nc_gid=p2oKm74wUjYLhoxTvVMRkA&oh=00_AfbHf164zJuURsn4MXxs145Ney3hJThnvf5R1jxm_MIUBQ&oe=68DF5B35), CWM: An Open-Weights LLM for Research on Code
@@ -42,6 +43,8 @@ Generation with World Models
 - [arXiv 2024.12](https://arxiv.org/html/2412.03548v1), Perception Tokens Enhance Visual Reasoning in Multimodal Language Models
 - [arXiv 2024.09](https://arxiv.org/abs/2409.06662), World-Grounded Human Motion Recovery via Gravity-View Coordinates
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
+- [arXiv 2022.11](https://arxiv.org/abs/2204.14198), Flamingo: a Visual Language Model for Few-Shot Learning (Deepmind)
+- [arXiv 2022.05](https://arxiv.org/abs/2204.00598), Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language (Google)
 
 ## multi-agent-rl
 - [arXiv 2025.08](https://arxiv.org/abs/2310.10948), Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control 
