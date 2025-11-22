@@ -45,6 +45,7 @@ Generation with World Models
 - [arXiv 2024.10](https://arxiv.org/abs/2407.06192), Multi-Object Hallucination in Vision-Language Models
 - [arXiv 2024.09](https://arxiv.org/abs/2409.06662), World-Grounded Human Motion Recovery via Gravity-View Coordinates
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
+- [arXiv 2022.12](https://arxiv.org/abs/2212.06088), MIRA: Mental Imagery for Robotic Affordances 
 - [arXiv 2022.11](https://arxiv.org/abs/2204.14198), Flamingo: a Visual Language Model for Few-Shot Learning (Deepmind)
 - [arXiv 2022.05](https://arxiv.org/abs/2204.00598), Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language (Google)
 
