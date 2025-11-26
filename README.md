@@ -27,6 +27,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
 ## world-models-vlms
+- [arXiv 2025.11](https://arxiv.org/abs/2511.10647), Depth Anything 3: Recovering the Visual Space from Any Views
 - [arXiv 2025.11](https://arxiv.org/abs/2507.12508), MindJourney: Test-Time Scaling with World Models for Spatial Reasoning
 - [arXiv 2025.09](https://openreview.net/forum?id=2zXRGiorSu), Linear Mechanisms for Spatiotemporal Reasoning in Vision Language Models
 - [arXiv 2025.09](https://arxiv.org/abs/2509.20328), Video models are zero-shot learners and reasoners
