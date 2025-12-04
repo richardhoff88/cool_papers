@@ -122,6 +122,7 @@ Generation with World Models
 - [arXiv 2025.04](https://arxiv.org/abs/2504.10783), Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning
 - [arXiv 2025.04](https://arxiv.org/abs/2504.12616), Graph-based Path Planning with Dynamic Obstacle Avoidance for Autonomous Parking
 - [arXiv 2024.12](https://arxiv.org/abs/2412.11270), Monte Carlo Tree Search with Spectral Expansion for Planning with Dynamical Systems
+- [arXiv 2024.12](https://arxiv.org/abs/2202.02703), Multi-modal Sensor Fusion for Auto Driving Perception: A Survey
 
 ## rl
 - [arXiv 2025.10](https://arxiv.org/abs/2412.10419), Preference Adaptive and Sequential Text-to-Image Generation (Google)
