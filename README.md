@@ -64,6 +64,7 @@ Generation with World Models
 - [arXiv 2016.10](https://arxiv.org/abs/1610.03295), Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving
 
 ## robotics
+- [arXiv 2025.10](https://arxiv.org/abs/2510.26786), HEIR: Learning Graph-Based Motion Hierarchies
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
 - [arXiv 2021.10](https://arxiv.org/abs/2110.05457), Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World
 
