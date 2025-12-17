@@ -88,6 +88,7 @@ Generation with World Models
 - [arXiv 2024.05](https://arxiv.org/abs/2312.00752), Mamba: Linear-Time Sequence Modeling with Selective State Spaces 
 - [arXiv 2024.05](https://arxiv.org/abs/2405.18614), Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams
 - [arXiv 2023.05](https://arxiv.org/abs/2303.08128), ViperGPT: Visual Inference via Python Execution for Reasoning
+- [arXiv 2022.10](https://arxiv.org/abs/2210.11522), Composing Ensembles of Pre-trained Models via Iterative Consensus
 - [arXiv 2022.10](https://arxiv.org/abs/2210.02747), Flow Matching for Generative Modeling
 - [arXiv 2022.06](https://arxiv.org/abs/2205.14135), FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness
 - [arXiv 2022.02](https://arxiv.org/abs/2109.01652), Finetuned Language Models Are Zero-Shot Learners
