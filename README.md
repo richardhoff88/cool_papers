@@ -27,6 +27,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
 ## world-models-vlms
+- [arXiv 2025.12](https://arxiv.org/abs/2512.10675), Evaluating Gemini Robotics Policies in a Veo World Simulator
 - [arXiv 2025.11](https://arxiv.org/abs/2511.10647), Depth Anything 3: Recovering the Visual Space from Any Views
 - [arXiv 2025.11](https://arxiv.org/abs/2507.12508), MindJourney: Test-Time Scaling with World Models for Spatial Reasoning
 - [arXiv 2025.09](https://openreview.net/forum?id=2zXRGiorSu), Linear Mechanisms for Spatiotemporal Reasoning in Vision Language Models
@@ -46,7 +47,6 @@ Generation with World Models
 - [arXiv 2024.10](https://arxiv.org/abs/2407.06192), Multi-Object Hallucination in Vision-Language Models
 - [arXiv 2024.09](https://arxiv.org/abs/2409.06662), World-Grounded Human Motion Recovery via Gravity-View Coordinates
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
-- [arXiv 2022.12](https://arxiv.org/abs/2212.06088), MIRA: Mental Imagery for Robotic Affordances 
 - [arXiv 2022.11](https://arxiv.org/abs/2204.14198), Flamingo: a Visual Language Model for Few-Shot Learning (Deepmind)
 - [arXiv 2022.05](https://arxiv.org/abs/2204.00598), Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language (Google)
 
@@ -66,6 +66,7 @@ Generation with World Models
 ## robotics
 - [arXiv 2025.10](https://arxiv.org/abs/2510.26786), HEIR: Learning Graph-Based Motion Hierarchies
 - [arXiv 2024.10](https://arxiv.org/html/2410.11825v1), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
+- [arXiv 2022.12](https://arxiv.org/abs/2212.06088), MIRA: Mental Imagery for Robotic Affordances
 - [arXiv 2021.10](https://arxiv.org/abs/2110.05457), Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World
 
 ## ml
