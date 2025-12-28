@@ -27,6 +27,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 - [2020.04](https://richard-warren.github.io/blog/rl_intro_3/), reinforcement learning (3/4): temporal difference learning
 
 ## world-models-vlms
+- [arXiv 2025.12](http://arxiv.org/pdf/2512.19526), QUANTIPHY: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models
 - [arXiv 2025.12](https://arxiv.org/abs/2512.08269), EgoX: Egocentric Video Generation from a Single Exocentric Video
 - [arXiv 2025.12](https://arxiv.org/abs/2512.10675), Evaluating Gemini Robotics Policies in a Veo World Simulator
 - [arXiv 2025.11](https://arxiv.org/abs/2511.10647), Depth Anything 3: Recovering the Visual Space from Any Views
