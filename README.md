@@ -60,6 +60,7 @@ Generation with World Models
 - [arXiv 2022.11](https://arxiv.org/abs/2209.04808), Graphon Mean-Field Control for Cooperative Multi-Agent Reinforcement Learning
 - [arXiv 2022.02](https://arxiv.org/abs/2112.01280), Learning Graphon Mean Field Games and Approximate Nash Equilibria 
 - [arXiv 2021.11](https://arxiv.org/abs/1912.02906), Scalable Reinforcement Learning for Multi-Agent Networked Systems
+- [arXiv 2021.10](https://arxiv.org/pdf/1910.12802), MODEL-FREE MEAN-FIELD REINFORCEMENT LEARNING: MEAN-FIELD MDP AND MEAN-FIELD Q-LEARNING
 - [arXiv 2021.10](https://arxiv.org/abs/2002.04131), Mean-Field Controls with Q-learning for Cooperative MARL: Convergence and Complexity Analysis
 - [arXiv 2020.12](https://arxiv.org/abs/1802.05438), Mean Field Multi-Agent Reinforcement Learning
 - [arXiv 2018.06](https://arxiv.org/abs/1803.11485), QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning
