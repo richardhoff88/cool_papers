@@ -15,6 +15,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 ---
 
 ## blogs
+- [2026.01](https://www.1x.tech/discover/world-model-self-learning), 1X World Model | From Video to Action: A New Way Robots Learn
 - [RL.1](https://ai.stanford.edu/~gwthomas/notes/mdps.pdf), RL Fundamentals
 - [RL.2](https://mitliagkas.github.io/ift6085-2019/ift-6085-lecture-18-notes.pdf), Analysis of RL algorithms
 - [2025.09](http://medium.com/correll-lab/model-free-vs-model-based-reinforcement-learning-1a5ba33baf0e), Model-free vs. Model-based Reinforcement Learning
