@@ -55,6 +55,7 @@ Generation with World Models
 - [arXiv 2022.05](https://arxiv.org/abs/2204.00598), Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language (Google)
 
 ## multi-agent-rl
+- [2025.12](https://openreview.net/forum?id=2T3LOpqIOO), Distributionally Robust Cooperative Multi-agent Reinforcement Learning with Value Factorization
 - [arXiv 2025.08](https://arxiv.org/abs/2310.10948), Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control 
 - [arXiv 2025.05](https://arxiv.org/abs/2412.00661), Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning
 - [arXiv 2025.01](https://arxiv.org/abs/2501.17079), Learning Mean Field Control on Sparse Graphs
