@@ -58,6 +58,7 @@ Generation with World Models
 - [2025.12](https://openreview.net/forum?id=2T3LOpqIOO), Distributionally Robust Cooperative Multi-agent Reinforcement Learning with Value Factorization
 - [arXiv 2025.08](https://arxiv.org/abs/2310.10948), Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control 
 - [arXiv 2025.05](https://arxiv.org/abs/2412.00661), Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning
+- [arXiv 2025.02](https://arxiv.org/abs/2502.20217), MARVEL: Multi-Agent Reinforcement Learning for constrained field-of-View multi-robot Exploration in Large-scale environments
 - [arXiv 2025.01](https://arxiv.org/abs/2501.17079), Learning Mean Field Control on Sparse Graphs
 - [arXiv 2023.03](https://arxiv.org/abs/2209.03880), Learning Sparse Graphon Mean Field Games
 - [arXiv 2022.11](https://arxiv.org/abs/2209.04808), Graphon Mean-Field Control for Cooperative Multi-Agent Reinforcement Learning
