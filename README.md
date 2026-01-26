@@ -56,6 +56,7 @@ Generation with World Models
 
 ## multi-agent-rl
 - [2025.12](https://openreview.net/forum?id=2T3LOpqIOO), Distributionally Robust Cooperative Multi-agent Reinforcement Learning with Value Factorization
+- [2025.09](https://arxiv.org/abs/2509.00981), Enhanced Mean Field Game for Interactive Decision-Making with Varied Stylish Multi-Vehicles
 - [arXiv 2025.08](https://arxiv.org/abs/2310.10948), Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control 
 - [arXiv 2025.05](https://arxiv.org/abs/2412.00661), Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning
 - [arXiv 2025.02](https://arxiv.org/abs/2502.20217), MARVEL: Multi-Agent Reinforcement Learning for constrained field-of-View multi-robot Exploration in Large-scale environments
@@ -67,6 +68,7 @@ Generation with World Models
 - [arXiv 2021.10](https://arxiv.org/pdf/1910.12802), MODEL-FREE MEAN-FIELD REINFORCEMENT LEARNING: MEAN-FIELD MDP AND MEAN-FIELD Q-LEARNING
 - [arXiv 2021.10](https://arxiv.org/abs/2002.04131), Mean-Field Controls with Q-learning for Cooperative MARL: Convergence and Complexity Analysis
 - [arXiv 2020.12](https://arxiv.org/abs/1802.05438), Mean Field Multi-Agent Reinforcement Learning
+- [arXiv 2020.10](https://arxiv.org/abs/2011.00120), Optimizing Mixed Autonomy Traffic Flow With Decentralized Autonomous Vehicles and Multi-Agent RL
 - [arXiv 2018.06](https://arxiv.org/abs/1803.11485), QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning
 - [arXiv 2016.10](https://arxiv.org/abs/1610.03295), Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving
 
