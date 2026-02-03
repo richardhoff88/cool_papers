@@ -4,6 +4,7 @@ This repo is an ongoing collection of papers I like in robotics, ml, rl, ai, and
 
   - [blogs](#blogs)
   - [world models](#world-models-vlms)
+  - [generative modelling](#generative-modelling)
   - [multi agent RL](#multi-agent-rl)
   - [robotics](#robotics)
   - [machine learning / llms](#ml)
@@ -54,6 +55,8 @@ Generation with World Models
 - [Genesis](https://genesis-embodied-ai.github.io/), Genesis: A Generative and Universal Physics Engine for Robotics and Beyond
 - [arXiv 2022.11](https://arxiv.org/abs/2204.14198), Flamingo: a Visual Language Model for Few-Shot Learning (Deepmind)
 - [arXiv 2022.05](https://arxiv.org/abs/2204.00598), Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language (Google)
+
+## generative-modelling
 
 ## multi-agent-rl
 - [2025.12](https://openreview.net/forum?id=2T3LOpqIOO), Distributionally Robust Cooperative Multi-agent Reinforcement Learning with Value Factorization
